@@ -19,7 +19,7 @@ This dataset is from the UCI machine learning repository and contains hourly ave
 - 8 PT08.S3 (tungsten oxide) hourly averaged sensor response (nominally NOx targeted)
 - 9 True hourly averaged NO2 concentration in microg/m^3 (reference analyzer)
 - 10 PT08.S4 (tungsten oxide) hourly averaged sensor response (nominally NO2 targeted)
--11 PT08.S5 (indium oxide) hourly averaged sensor response (nominally O3 targeted)
+- 11 PT08.S5 (indium oxide) hourly averaged sensor response (nominally O3 targeted)
 - 12 Temperature in Â°C
 - 13 Relative Humidity (%)
 - 14 AH Absolute Humidity
